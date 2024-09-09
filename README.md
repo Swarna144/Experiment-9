@@ -50,4 +50,9 @@ int main()
     }
 }
     ```
+OUTPUT:-
+
+![Ex 9 JPG](https://github.com/user-attachments/assets/547b7808-48be-4ea6-838c-60e0b6c85cb7)
+
+
 Conclusion- We learned how to use pointers in C++.
